@@ -1,5 +1,4 @@
 # data-cleaning-and-translation
-Performing data cleaning on various data; join, separate, and translate many-to-many data
 
 ## Overview
 This is the T of ETL built in Python script for data migration process from old to new Salesforce CRM platform. 
@@ -12,6 +11,10 @@ Over 11,000 records were extracted from Salesforce platform and internal company
 
 
 Important Note: Data and scripts uploaded to GitHub are Sample data, so it might not have the same amount of data as the actual migration process.
+
+## Process
+Performing data cleaning on various data: join, separate, and translate many-to-many data.
+In old system, all values/information are stored within one page of record. In new system, the information will be stored in 4 different pages of record. 
 
 
 
